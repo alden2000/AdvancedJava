@@ -1,4 +1,4 @@
-package org.example.JavaAdvancedTest1;
+package org.example.JavaAdvancedTest1.Zadaca1;
 
 public class ArrayDemo {
     public static void main(String[] args) {
