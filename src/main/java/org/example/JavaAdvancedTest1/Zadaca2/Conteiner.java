@@ -16,10 +16,10 @@ public class Conteiner <E> extends Person implements Iterable<E>{
         elements[capacity-1]=element;
     }
     public void remove(E element){
-        for(int i=0; i<elements.length; i++) {
+        for(int i=0; i<capacity; i++) {
             if (elements[i].equals(element)) {
                 capacity--;
-                for (int j = i; j < elements.length-1; j++) {
+                for (int j = i; j < capacity; j++) {
                     elements[j] = elements[j + 1];
                 }
             }
@@ -41,9 +41,9 @@ public class Conteiner <E> extends Person implements Iterable<E>{
 
         @Override
         public E next() {
-            Object element= elements[indexNumber];
+            E element= (E) elements[indexNumber];
             indexNumber++;
-            return (E) element;
+            return element;
         }
     }
 }

@@ -1,0 +1,11 @@
+/ Julia Simon / FRA / points= 471/ F
+/ Elvira Oeberg / SWE / points= 395/ F
+/ Holm Laegreid Strula / NOR / points= 565/ M
+/ Lisa Vittozzi / ITA / points= 373/ F
+/ Emilien Jacquelin / FRA / points= 319/ M
+/ Denise Herrmann-Wick / GER / points= 356/ F
+/ Linn Persson / SWE / points= 328/ F
+/ Martin Ponsiluoma / SWE / points= 273/ M
+/ Lisa Hauser / AUT / points= 320/ F
+/ Marketa Davidova / CZE / points= 293/ F
+/ Dorothea Wierer / ITA / points= 276/ F

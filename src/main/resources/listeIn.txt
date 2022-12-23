@@ -1,0 +1,11 @@
+Simon,Julia,FRA,471,Female
+Oeberg,Elvira,SWE,395,Female
+Laegreid Strula,Holm,NOR,565,Male
+Vittozzi,Lisa,ITA,373,Female
+Jacquelin,Emilien,FRA,319,Male
+Herrmann-Wick,Denise,GER,356,Female
+Persson,Linn,SWE,328,Female
+Ponsiluoma,Martin,SWE,273,Male
+Hauser,Lisa,AUT,320,Female
+Davidova,Marketa,CZE,293,Female
+Wierer,Dorothea,ITA,276,Female

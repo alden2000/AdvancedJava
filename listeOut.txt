@@ -1,0 +1,8 @@
+Simon,Julia,FRA,471
+Oeberg,Elvira,SWE,395
+Vittozzi,Lisa,ITA,373
+Herrmann-Wick,Denise,GER,356
+Persson,Linn,SWE,328
+Hauser,Lisa,AUT,320
+Davidova,Marketa,CZE,293
+Wierer,Dorothea,ITA,276
