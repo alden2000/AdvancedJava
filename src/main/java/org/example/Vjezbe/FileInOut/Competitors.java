@@ -11,7 +11,7 @@ public class Competitors {
     public String toString() {
         return "/ " + name + " " + surname +
                 " / " + country +
-                " / points= " + points + "/ " + gender ;
+                " / points= " + points + "/ " + gender;
     }
 
     public void setGender(Gender gender) {

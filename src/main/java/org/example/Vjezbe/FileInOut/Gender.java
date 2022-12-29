@@ -1,10 +1,11 @@
 package org.example.Vjezbe.FileInOut;
 
 public enum Gender {
-    M("Male"),F("Female");
+    M("Male"), F("Female");
     private String gender;
+
     Gender(String gender) {
-        this.gender=gender;
+        this.gender = gender;
     }
 
     public String getGender() {

@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae9f73ad-d6de-4716-84c9-1d8eeed970d7" name="Changes" comment="Advanced Java druga zadaca">
-      <change afterPath="$PROJECT_DIR$/Output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listeOut.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/Competitors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/CompetitorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/FilesReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/listeIn.txt" afterDir="false" />
+    <list default="true" id="ae9f73ad-d6de-4716-84c9-1d8eeed970d7" name="Changes" comment="Advanced Java fajlovi upis/ispis">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/UserData2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/UserData2/ProductDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/UserData2/SQLReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/JavaAdvancedTest1/Zadaca2/Conteiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaAdvancedTest1/Zadaca2/Conteiner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/JavaAdvancedTest1/Zadaca2/ConteinerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaAdvancedTest1/Zadaca2/ConteinerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/Competitors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/Competitors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/CompetitorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/CompetitorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/FilesReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/FilesReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Vjezbe/FileInOut/Gender.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,7 +51,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CompetitorsDemo">
+  <component name="RunManager" selected="Application.ProductDemo">
     <configuration name="CompetitorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Vjezbe.FileInOut.CompetitorsDemo" />
       <module name="JavaAdvancedProgramming" />
@@ -92,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserPointDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Vjezbe.UserData2.UserPointDemo" />
+    <configuration name="ProductDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Vjezbe.UserData2.ProductDemo" />
       <module name="JavaAdvancedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductDemo" />
         <item itemvalue="Application.CompetitorsDemo" />
         <item itemvalue="Application.Files" />
         <item itemvalue="Application.ConteinerDemo" />
         <item itemvalue="Application.WayOfFightDemo" />
-        <item itemvalue="Application.UserPointDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671546913386</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Advanced Java fajlovi upis/ispis">
+      <created>1671816065301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671816065301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +181,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Advanced Java prva zadaca" />
     <MESSAGE value="Advanced Java druga zadaca" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advanced Java druga zadaca" />
+    <MESSAGE value="Advanced Java fajlovi upis/ispis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advanced Java fajlovi upis/ispis" />
   </component>
 </project>
