@@ -1,0 +1,10 @@
+Product{productId=1, name='Foam Dinner Plate', quantityInStock=70, price=1.21}
+Product{productId=2, name='Pork - Bacon,back Peameal', quantityInStock=49, price=4.65}
+Product{productId=3, name='Lettuce - Romaine, Heart', quantityInStock=38, price=3.35}
+Product{productId=4, name='Brocolinni - Gaylan, Chinese', quantityInStock=90, price=4.53}
+Product{productId=5, name='Sauce - Ranch Dressing', quantityInStock=94, price=1.63}
+Product{productId=6, name='Petit Baguette', quantityInStock=14, price=2.39}
+Product{productId=7, name='Sweet Pea Sprouts', quantityInStock=98, price=3.29}
+Product{productId=8, name='Island Oasis - Raspberry', quantityInStock=26, price=0.74}
+Product{productId=9, name='Longan', quantityInStock=67, price=2.26}
+Product{productId=10, name='Broom - Push', quantityInStock=6, price=1.09}
